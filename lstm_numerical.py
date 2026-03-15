@@ -1,8 +1,7 @@
 """
 LSTM Numerical Example - Implemented From Scratch
 ==================================================
-Based on: LSTM_numerical_example_pdf.pdf & Lecture_3_pdf.pdf
-          (A. Prof. Noha El-Attar)
+Deep learning (A. Prof. Noha El-Attar)
 
 Task   : Predict the next value in the sequence [1, 2, 3] -> ~= 4
 Model  : LSTM with input_dim=1, hidden_dim=1
